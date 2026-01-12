@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JavokhirUmurzakov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirumurzakov" /> </p>
 
